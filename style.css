@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(197, 236, 236);
+    color: rgb(231, 147, 147);
+    font-size: 20px;
+}
+.title-1{
+    color: darkred;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
